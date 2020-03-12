@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - Left Hand
+  - Right Hand
+  - SpawnedCubes
+  - Correct
+  - Incorrect
+  - Display Text
+  - Wall
+  - BlockSpawn
+  - Block Holder
+  - Stop Point Z
+  - Sword
+  - Start
+  - Equation Spawner
+  - Bonus Answer
+  - Restart
+  - Light Flasher
+  - NinjaStart
+  - MasterStart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Spawner
+  - SpawnedCubes
+  - Player
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
